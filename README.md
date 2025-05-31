@@ -10,13 +10,14 @@ Uma aplicação fullstack moderna desenvolvida com **React + TypeScript + Vite**
 
 A página inicial exibe os produtos cadastrados em um layout de cards responsivos, com título, imagem e preço:
 
-![Cardápio](./public/assets/cardapio-preview.png)
+![Cardápio](./Front-Cardapio/assets/cardapio-preview.png)
 
 ### 📝 Tela de Cadastro
 
 Ao clicar em **"novo"**, um modal é aberto para cadastrar um novo prato no cardápio:
 
-![Cadastro](./public/assets/cadastro-preview.png)
+![Cardápio](./Front-Cardapio/assets/cadastro-preview.png)
+
 
 ---
 
