@@ -74,7 +74,6 @@ export function CreateModal({ closeModal }: ModalProps) {
                 <button onClick={submit} className="btn-secondary">
                     {isLoading ? 'postando...' : 'postar'}
                 </button>
-                
                 <button onClick={closeModal} className="btn-cancel">
                 voltar
                 </button>
